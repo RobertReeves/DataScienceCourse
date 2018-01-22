@@ -1,2 +1,2 @@
 # DataScienceCourse
-Used for assigments and project for Data Science Couse
+Used for assignments and projects for Data Science Course
